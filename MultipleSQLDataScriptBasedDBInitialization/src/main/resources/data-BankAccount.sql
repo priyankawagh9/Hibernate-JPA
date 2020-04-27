@@ -1,0 +1,1 @@
+INSERT INTO bank_account(balance, owner) VALUES (100011,'ownerName1'),(100022,'ownerName2'),(100033,'ownerName3');

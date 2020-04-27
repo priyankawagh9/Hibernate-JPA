@@ -1,0 +1,1 @@
+INSERT INTO user_acc(name) VALUES ('Name1'),('Name2'),('Name3');
